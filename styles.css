@@ -11,7 +11,7 @@
             text-align: left;
             margin: 0px;
             padding: 1px;
-            color:cornflowerblue;
+            color:deepskyblue;
         }
         p{
             font-family: 'Ubuntu Condensed', sans-serif;
@@ -34,8 +34,8 @@
 
         }
         .initials{
-            color:cornflowerblue;
-            border:cornflowerblue 1px solid;
+            color:deepskyblue;
+            border:deepskyblue 1px solid;
             font-size:45px;
             border-radius:5%;
             width:60px;
@@ -55,7 +55,7 @@
             left: 160px;
         }
         #title2 {
-            color:cornflowerblue;
+            color:deepskyblue;
             position: relative;
             float:left;
             font-size:60px;
@@ -70,7 +70,7 @@
             margin-top: 5px;
         }
         .name {
-            color:cornflowerblue;
+            color:deepskyblue;
             font-size:25px;
             position: relative;
             top: 8px;
@@ -103,7 +103,7 @@
         .topbar-menu {
                 
             font-size:18px;
-            color: cornflowerblue;
+            color: deepskyblue;
             float:left;
             margin-left:2px;
             margin-right:5px;
@@ -120,7 +120,7 @@
 			}
 		a{
             text-decoration: none;
-            color:cornflowerblue;
+            color:deepskyblue;
         }
         a:hover {
 	        text-decoration: underline;
@@ -156,8 +156,8 @@
             border: white 1px solid;          
         }
         #aboutMe:hover {
-            color:cornflowerblue;
-            border-color: cornflowerblue;
+            color:deepskyblue;
+            border-color: deepskyblue;
             cursor:pointer;
 
         }
