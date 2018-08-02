@@ -11,7 +11,7 @@
             text-align: left;
             margin: 0px;
             padding: 1px;
-            color:deepskyblue;
+            color:darkslategray;
         }
         p{
             font-family: 'Ubuntu Condensed', sans-serif;
@@ -34,8 +34,8 @@
 
         }
         .initials{
-            color:deepskyblue;
-            border:deepskyblue 1px solid;
+            color:darkslategray;
+            border:darkslategray 1px solid;
             font-size:45px;
             border-radius:5%;
             width:60px;
@@ -55,7 +55,7 @@
             left: 160px;
         }
         #title2 {
-            color:deepskyblue;
+            color:darkslategray;
             position: relative;
             float:left;
             font-size:60px;
@@ -70,7 +70,7 @@
             margin-top: 5px;
         }
         .name {
-            color:deepskyblue;
+            color:darkslategray;
             font-size:25px;
             position: relative;
             top: 8px;
@@ -103,7 +103,7 @@
         .topbar-menu {
                 
             font-size:18px;
-            color: deepskyblue;
+            color: darkslategray;
             float:left;
             margin-left:2px;
             margin-right:5px;
@@ -120,7 +120,7 @@
 			}
 		a{
             text-decoration: none;
-            color:deepskyblue;
+            color:darkslategray;
         }
         a:hover {
 	        text-decoration: underline;
@@ -156,8 +156,8 @@
             border: white 1px solid;          
         }
         #aboutMe:hover {
-            color:deepskyblue;
-            border-color: deepskyblue;
+            color:darkslategray;
+            border-color: darkslategray;
             cursor:pointer;
 
         }
