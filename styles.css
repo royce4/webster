@@ -53,6 +53,7 @@
             font-size:60px;
             top:12px;
             left: 160px;
+            color:dodgerblue;
         }
         #title2 {
             color:dodgerblue;
@@ -90,7 +91,7 @@
         }
         
         #topbar{
-            background-color: lightgray;
+            background-color:lightsteelblue;
 			height:70px;
 			width:1200px;
             opacity:5%;
@@ -111,7 +112,7 @@
                 
         }
 		#bar2{
-			background-color:lightgray;
+			background-color:lightsteelblue;
 			height:170px;
 			width:1200px;
             opacity:5%;
@@ -120,10 +121,10 @@
 			}
 		a{
             text-decoration: none;
-            color:darkslategray;
+            color:steelblue;
         }
         a:hover {
-	        text-decoration: underline;
+            text-decoration: underline;
                 }   	
 		#records{
             opacity: 0.80;
@@ -172,7 +173,7 @@
             font-size:18px;
             padding:5px 5px 12px 5px;
             border-radius: 5px;
-            border: 1px solid grey;
+            border: 1px solid lightsteelblue;
             margin-bottom:5px;
             width:320px;
         }
@@ -180,7 +181,7 @@
             font-size:18px;
             padding:5px 5px 12px 5px;
             border-radius: 5px;
-            border: 1px solid grey;
+            border: 1px solid lightsteelblue;
             bottom: 4px;
             width:  320px;
             height: 220px;
