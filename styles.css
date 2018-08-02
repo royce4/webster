@@ -11,7 +11,7 @@
             text-align: left;
             margin: 0px;
             padding: 1px;
-            color: #A6192E;
+            color:slateblue;
         }
         p{
             font-family: 'Ubuntu Condensed', sans-serif;
@@ -34,8 +34,8 @@
 
         }
         .initials{
-            color:#A6192E;
-            border: #A6192E 1px solid;
+            color:slateblue;
+            border:slateblue 1px solid;
             font-size:45px;
             border-radius:5%;
             width:60px;
@@ -55,7 +55,7 @@
             left: 160px;
         }
         #title2 {
-            color: #A6192E;
+            color:slateblue;
             position: relative;
             float:left;
             font-size:60px;
@@ -70,7 +70,7 @@
             margin-top: 5px;
         }
         .name {
-            color: #A6192E;
+            color:slateblue;
             font-size:25px;
             position: relative;
             top: 8px;
@@ -90,7 +90,7 @@
         }
         
         #topbar{
-            background-color:#DDCBA4;
+            background-color: lightgray;
 			height:70px;
 			width:1200px;
             opacity:5%;
@@ -103,7 +103,7 @@
         .topbar-menu {
                 
             font-size:18px;
-            color: #A6192E;
+            color: slateblue;
             float:left;
             margin-left:2px;
             margin-right:5px;
@@ -111,7 +111,7 @@
                 
         }
 		#bar2{
-			background-color:#DDCBA4;
+			background-color:lightgray;
 			height:170px;
 			width:1200px;
             opacity:5%;
@@ -120,7 +120,7 @@
 			}
 		a{
             text-decoration: none;
-            color:#A6192E;
+            color:slateblue;
         }
         a:hover {
 	        text-decoration: underline;
@@ -156,8 +156,8 @@
             border: white 1px solid;          
         }
         #aboutMe:hover {
-            color:#A6192E;
-            border-color: #A6192E;
+            color:slateblue;
+            border-color: slateblue;
             cursor:pointer;
 
         }
