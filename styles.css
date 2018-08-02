@@ -34,8 +34,8 @@
 
         }
         .initials{
-            color:darkslategray;
-            border:darkslategray 1px solid;
+            color:dodgerblue;
+            border:dodgerblue 1px solid;
             font-size:45px;
             border-radius:5%;
             width:60px;
@@ -55,7 +55,7 @@
             left: 160px;
         }
         #title2 {
-            color:darkslategray;
+            color:dodgerblue;
             position: relative;
             float:left;
             font-size:60px;
@@ -70,7 +70,7 @@
             margin-top: 5px;
         }
         .name {
-            color:darkslategray;
+            color:dodgerblue;
             font-size:25px;
             position: relative;
             top: 8px;
@@ -103,7 +103,7 @@
         .topbar-menu {
                 
             font-size:18px;
-            color: darkslategray;
+            color: dodgerblue;
             float:left;
             margin-left:2px;
             margin-right:5px;
@@ -156,8 +156,8 @@
             border: white 1px solid;          
         }
         #aboutMe:hover {
-            color:darkslategray;
-            border-color: darkslategray;
+            color:dodgerblue;
+            border-color: dodgerblue;
             cursor:pointer;
 
         }
