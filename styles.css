@@ -31,6 +31,7 @@
             height: 80px;
             padding: 20px;
             display:none;
+            border-bottom: orange 1px solid;
 
         }
         .initials{
@@ -96,7 +97,7 @@
 			width:1200px;
             opacity:5%;
             float:left;
-            border-bottom:black 1px solid;
+            border-bottom:orange 1px solid;
             padding: 10px 0px 0px 5px;
             padding-bottom: 0px;
             margin-bottom:2px;
@@ -117,7 +118,7 @@
 			width:1200px;
             opacity:5%;
             float:left;
-            border-bottom:black 1px solid;
+            border-top:orange 1px solid;
 			}
 		a{
             text-decoration: none;
@@ -167,7 +168,7 @@
             margin: 10px 10px;
             height:190px;
             border-radius:5%;
-            border:black 1px solid;
+            border:orange 1px solid;
         }
         input{
             font-size:18px;
