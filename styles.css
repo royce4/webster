@@ -44,6 +44,7 @@
             font-weight: 500;
             font-style: initial;
             cursor:pointer;
+            font-family: 'Ubuntu Condensed', sans-serif;
         }
         .container {
             position:relative;
